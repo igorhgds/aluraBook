@@ -7,7 +7,7 @@ Projeto realizado com o objetivo de aprendizado das tecnologias HTML e CSS
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Book**
 | :label: Tecnologias | HTML, CSS (tecnologias utilizadas)
-| :rocket: URL         | 
+| :rocket: URL         | https://igorhgds.github.io/aluraBook/
 | :fire: Desafio     | https://cursos.alura.com.br/course/html-css-responsividade-mobile-first
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
