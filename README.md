@@ -11,7 +11,7 @@ Projeto realizado com o objetivo de aprendizado das tecnologias HTML e CSS
 | :fire: Desafio     | https://cursos.alura.com.br/course/html-css-responsividade-mobile-first
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](#vitrinedev)
+![](https://github.com/igorhgds/aluraBook/blob/main/alurabook.PNG#vitrinedev)
 
 # :hammer: Técnologia Utilizada:
 
